@@ -34,7 +34,7 @@
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
-## Quick start
+## Quick start (testing)
 
 Several quick start options are available:
 
